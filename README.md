@@ -31,6 +31,18 @@ m)  JDOLLAR2.0--WEBC
 
 n)  JDOLLAR2.0--JSHELL(used  only  in unix plaform)
 
+========================================================================================================
+
+JSHEILD
+=========
+
+JSHEILD is a new framework invented in J$ focused for ENCODING AND DECODING with Encryption Technology is focused.
+
+
+============================================================================================================
+
+
+
 
 [Used  in windows type   os]..
 
