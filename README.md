@@ -1,10 +1,10 @@
-# JDOLLAR2.0Part3
+# DOTWEB3.0Part3
 ==================
 
 
-JDOLLAR2.0-V.1-PART3 is   invented  in JDOLLAR(JWEB) by  wilmix  jemin  j in  year  2017  focused  only  for  webapplication.
+DOTWEB3.0-V.1-PART3 is   invented  in DOTWEB(JWEB) by  wilmix  jemin  j in  year  2017  focused  only  for  webapplication.
 
-and   so  JDOLLAR2.0-V.1-PART3   is  ranked  as  RANK Z'  P.L
+and   so  DOTWEB3.0-V.1-PART3   is  ranked  as  RANK Z'  P.L
 
 since  it   has   Advanced Business  and     Webapplication  type  technologies.
 
@@ -15,28 +15,28 @@ and  mobiles.
 
 It  consists  of  14 modules  which  are
 
-a) JDOLLAR2.0-Insurance  b)  JDOLLAR2.0-Banking  c) JDOLLAR2.0-Marketing  
+a) DOTWEB3.0-Insurance  b)  DOTWEB3.0-Banking  c) DOTWEB3.0-Marketing  
 
-d)  JDOLLAR2.0-Security  e)  JDOLLAR2.0-Military f) JDOLLAR2.0- webservices
+d)  DOTWEB3.0-Security  e)  DOTWEB3.0-Military f) DOTWEB3.0- webservices
 
-g) JDOLLAR2.0-OTHER  h)  JDOLLAR2.0- FINANCE
+g) DOTWEB3.0-OTHER  h)  DOTWEB3.0- FINANCE
 
-i)  JDOLLAR-WEBDESIGN with  JDollar-JSTAR(Encrypted  webdesign) j) JDOLLAR2.0-JWP
+i)  DOTWEB-WEBDESIGN with  DOTWEB-JSTAR(Encrypted  webdesign) j) DOTWEB3.0-JWP
 
-k)  JDOLLAR2.0-AdvancedBusiness
+k)  DOTWEB3.0-AdvancedBusiness
 
-l)  JDOLLAR2.0--NJDOLLAR-Finance  with Advanced Business
+l)  DOTWEB3.0--NDOTWEB-Finance  with Advanced Business
 
-m)  JDOLLAR2.0--WEBC
+m)  DOTWEB3.0--WEBC
 
-n)  JDOLLAR2.0--JSHELL(used  only  in unix plaform)
+n)  DOTWEB3.0--JSHELL(used  only  in unix plaform)
 
 ========================================================================================================
 
 JSHEILD
 =========
 
-JSHEILD is a new framework invented in J$ focused for ENCODING AND DECODING with Encryption Technology is focused.
+JSHEILD is a new framework invented in DOTWEB3.0 focused for ENCODING AND DECODING with Encryption Technology is focused.
 
 
 ============================================================================================================
@@ -47,35 +47,35 @@ JSHEILD is a new framework invented in J$ focused for ENCODING AND DECODING with
 [Used  in windows type   os]..
 
 
-JDOLLAR2.0- Shortform of  Business  = (JDOLLAR2.0--(I-B-M-S-M-W-O-F-WD-JWP-AB-JN-JW-JS)).
+DOTWEB3.0- Shortform of  Business  = (DOTWEB3.0--(I-B-M-S-M-W-O-F-WD-JWP-AB-JN-JW-JS)).
 
 
-This  is  the   technology   list  which  is    used   with  Jdollar(JDOLLAR2.0-)  domains or   Jdollar(JDOLLAR2.0-)  14 modules
+This  is  the   technology   list  which  is    used   with  DOTWEB(DOTWEB3.0-)  domains or   DOTWEB(DOTWEB3.0-)  14 modules
 
-A)  JDOLLAR2.0-Insurance  with  IMF  Framework  with  OAKJAVA7 with wnosql db
+A)  DOTWEB3.0-Insurance  with  IMF  Framework  with  OAKJAVA7 with wnosql db
 
-b)  JDOLLAR2.0-BANKING  with  CH$ Technology and  Jdollarpart2 with  wnosql db
+b)  DOTWEB3.0-BANKING  with  CH$ Technology and  DOTWEBpart2 with  wnosql db
 
-c)  JDOLLAR2.0-MARKETING  with  JDollar(JDOLLAR2.0-) part2 with  wnosql db
+c)  DOTWEB3.0-MARKETING  with  DOTWEB(DOTWEB3.0-) part2 with  wnosql db
 
-d)  JDOLLAR2.0- SECURITY  with  NJDOLLAR  and  SLING  technology with  wnosqldb
+d)  DOTWEB3.0- SECURITY  with  NDOTWEB  and  SLING  technology with  wnosqldb
 
-e)  JDOLLAR2.0-  with  JDollar-JSTAR(encryption) and  JDollar -CWP WEBDESIGN (JDOLLAR WEBDESIGNS p.l)  with  mysql db
+e)  DOTWEB3.0-  with  DOTWEB-JSTAR(encryption) and  DOTWEB -CWP WEBDESIGN (DOTWEB WEBDESIGNS p.l)  with  mysql db
 
-f)  JDOLLAR2.0--WEBSERVICES  - with  Jdollar(JDOLLAR2.0-) part1  and  JDollar(JDOLLAR2.0-) part2  modules
+f)  DOTWEB3.0--WEBSERVICES  - with  DOTWEB(DOTWEB3.0-) part1  and  DOTWEB(DOTWEB3.0-) part2  modules
 
-g)  JDOLLAR2.0-OTHER - with  NSTAR  or  RDOTNET  modules and  SLING technology  and  JDOLLAR2.0-Part2 with wnosql db
+g)  DOTWEB3.0-OTHER - with  NSTAR  or  RDOTNET  modules and  SLING technology  and  DOTWEB3.0-Part2 with wnosql db
 
-h) JDOLLAR2.0- Finance  -  with  CH$  ,  SLING Technology  with  wnosql db
+h) DOTWEB3.0- Finance  -  with  CH$  ,  SLING Technology  with  wnosql db
 
-i) JDOLLAR2.0- Military  ->  JDOLLAR2.0- Part2 with  wnosqldb
+i) DOTWEB3.0- Military  ->  DOTWEB3.0- Part2 with  wnosqldb
 
-j) JDOLLAR2.0- JWP  => with  CH$  for  biometric,  reservation ,etc. wnosql db
+j) DOTWEB3.0- JWP  => with  CH$  for  biometric,  reservation ,etc. wnosql db
 
-k)  JDOLLAR2.0-ADVANCEDBUSINESS  -> ALL JDOLLAR2.0-  11 Domains  Interaction  with  DOTWEB  and  ADollar p.l  Advanced Business.  
+k)  DOTWEB3.0-ADVANCEDBUSINESS  -> ALL DOTWEB3.0-  11 Domains  Interaction  with  DOTWEB  and  ADollar p.l  Advanced Business.  
 
-l)   JDOLLAR2.0--NJDOLLAR-Finance  with Advanced Business  ->  Used  only  with  NJDOLLAR with  wnosql db
+l)   DOTWEB3.0--NDOTWEB-Finance  with Advanced Business  ->  Used  only  with  NDOTWEB with  wnosql db
 
-m)  JDOLLAR2.0--WEBC  =>  USed  with  WEBC  -Simulation, hospital  mgt. with wnosql db
+m)  DOTWEB3.0--WEBC  =>  USed  with  WEBC  -Simulation, hospital  mgt. with wnosql db
 
-n) JDOLLAR2.0--JSHELL =>  used   with  projects  like  Govt with  wdbajdollar  db
+n) DOTWEB3.0--JSHELL =>  used   with  projects  like  Govt with  wdbaDOTWEB  db
